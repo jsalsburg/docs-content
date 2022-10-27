@@ -9,6 +9,8 @@ This document explains how to install the Arduino Software (IDE) on Windows mach
 
 ## Download the Arduino Software (IDE)
 
+If you have previous versions of Arduino IDE 2 (BETA) installed, uninstall it before running the .MSI or .EXE Installer. 
+
 Get the latest version from the [download page](https://www.arduino.cc/en/Main/Software). You can choose between the Installer (.exe) and the Zip packages. We suggest you use the first one that installs directly everything you need to use the Arduino Software (IDE), including the drivers. With the Zip package you need to install the drivers manually. The Zip file is also useful if you want to create a [portable installation](/en/Guide/PortableIDE).
 
 When the download finishes, proceed with the installation and please allow the driver installation process when you get a warning from the operating system.
